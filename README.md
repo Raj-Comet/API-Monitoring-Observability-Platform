@@ -17,10 +17,8 @@
 - [Database Schema](#-database-schema)
 - [Design Decisions](#-design-decisions)
 - [Testing](#-testing)
-- [Deployment](#-deployment)
-- [Contributing](#-contributing)
 - [License](#-license)
-- [Support](#-support)
+
 
 ---
 
@@ -840,9 +838,6 @@ We love contributions! Here's how you can help:
 - ✅ Add comments for complex logic
 - ✅ Ensure all tests pass
 
-### Code of Conduct
-
-Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
 
 ---
 
@@ -896,25 +891,10 @@ Found a bug? Have a feature request?
 - [Recharts](https://recharts.org/) - Charting library
 - [Bucket4j](https://github.com/bucket4j/bucket4j) - Rate limiting
 
-### Contributors
 
-Thanks to all contributors who helped build this project! 🙏
-
-<a href="https://github.com/yourusername/api-monitoring-platform/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=yourusername/api-monitoring-platform" />
-</a>
 
 ---
 
-## 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/api-monitoring-platform?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/api-monitoring-platform?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/api-monitoring-platform?style=social)
-
-![GitHub issues](https://img.shields.io/github/issues/yourusername/api-monitoring-platform)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/api-monitoring-platform)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/api-monitoring-platform)
 
 ---
 
@@ -935,9 +915,7 @@ Thanks to all contributors who helped build this project! 🙏
 
 <div align="center">
 
-## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/api-monitoring-platform&type=Date)](https://star-history.com/#yourusername/api-monitoring-platform&Date)
 
 ---
 
